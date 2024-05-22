@@ -1,0 +1,34 @@
+/*h4{
+    color: blue;
+}
+h1{
+    color: blue;
+}
+h3,h2,h5{
+    color: brown;
+}*/
+
+/* *{
+    color: blue;
+} 
+
+#nm{
+    color: red;
+}
+.ab{
+    color: yellowgreen;
+}
+*/
+
+p>i{
+    color:red
+} 
+h1~h3{
+    color: darkblue;
+}
+h1+h2{
+    color: red;
+}
+div b{
+    color: green;
+}
